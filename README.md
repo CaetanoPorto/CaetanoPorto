@@ -1,6 +1,8 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,12,19,24&height=180&section=header&text=Caetano%20Porto&fontSize=52&fontAlignY=36&desc=Data%20Scientist%20%7C%20ML%20%26%20DL%20Enthusiast&descAlignY=60&descSize=18&fontColor=fff" width="100%"/>
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&width=650&lines=Ol%C3%A1%2C+eu+sou+Caetano+Porto+%F0%9F%91%8B;Data+Scientist+%40+Ita%C3%BA+Unibanco+%F0%9F%8F%A6;ML+%26+Deep+Learning+Enthusiast+%F0%9F%A7%A0" alt="Typing SVG"/>
 </div>
+
+<br/>
 
 <div align="center">
   <a href="https://www.linkedin.com/in/guilherme-porto-11007a275/">
@@ -16,6 +18,8 @@
 </div>
 
 <br/>
+
+---
 
 ## 🧠 Sobre mim
 
@@ -59,9 +63,11 @@ class CaetanoPorto:
 ## 📊 GitHub Stats
 
 <div align="center">
-  <img height="160" src="https://github-readme-stats.vercel.app/api?username=CaetanoPorto&show_icons=true&theme=tokyonight&hide_border=true&count_private=true"/>
-  <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=CaetanoPorto&layout=compact&theme=tokyonight&hide_border=true"/>
+  <img height="160" src="https://github-readme-stats.vercel.app/api?username=CaetanoPorto&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&cache_seconds=1800"/>
+  <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=CaetanoPorto&layout=compact&theme=tokyonight&hide_border=true&cache_seconds=1800"/>
 </div>
+
+<br/>
 
 <div align="center">
   <img src="https://streak-stats.demolab.com/?user=CaetanoPorto&theme=tokyonight&hide_border=true"/>
@@ -81,5 +87,5 @@ class CaetanoPorto:
 ---
 
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,12,19,24&height=100&section=footer" width="100%"/>
+  <sub>Feito com ❤️ por Caetano Porto</sub>
 </div>
